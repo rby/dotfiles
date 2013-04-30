@@ -28,3 +28,6 @@
 [submodule "vim/bundle/powerline"]
 	path = vim/bundle/powerline
 	url = https://github.com/Lokaltog/powerline.git
+[submodule "vim/bundle/vim-hdevtools"]
+	path = vim/bundle/vim-hdevtools
+	url = https://github.com/bitc/vim-hdevtools.git
