@@ -32,8 +32,8 @@ URxvt*color15 : #EEEEEC
 
 !urxvt fonts: 
 
-URxvt*font: xft:Inconsolata:pixelsize=16
-URxvt*boldFont: xft:Inconsolata:bold:pixelsize=16
+#URxvt*font: xft:Inconsolata:pixelsize=16
+#URxvt*boldFont: xft:Inconsolata:bold:pixelsize=16
 
 
 !urxvt extensions:
@@ -42,7 +42,7 @@ URxvt.perl-ext-common:  default,matcher,tabbedex
 
 !enabling clickable links:
 
-URxvt.urlLauncher:      /usr/bin/firefox
+URxvt.urlLauncher:      /usr/bin/chromium-browser
 URxvt.matcher.button:   1 
 
 !urxvt scrolling options and cursor style:
