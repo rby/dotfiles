@@ -31,3 +31,21 @@
 [submodule "vim/bundle/vim-hdevtools"]
 	path = vim/bundle/vim-hdevtools
 	url = https://github.com/bitc/vim-hdevtools.git
+[submodule "vim/bundle/syntastic"]
+	path = vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim/bundle/ghcmod-vim"]
+	path = vim/bundle/ghcmod-vim
+	url = https://github.com/eagletmt/ghcmod-vim.git
+[submodule "vim/bundle/vimproc.vim"]
+	path = vim/bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "vim/bundle/neco-ghc"]
+	path = vim/bundle/neco-ghc
+	url = https://github.com/ujihisa/neco-ghc.git
+[submodule "vim/bundle/neocoplcache.vim"]
+	path = vim/bundle/neocoplcache.vim
+	url = https://github.com/Shougo/neocomplcache.vim.git
+[submodule "vim/bundle/minbufexpl.vim"]
+	path = vim/bundle/minbufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim.git
