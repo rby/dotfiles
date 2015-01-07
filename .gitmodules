@@ -46,9 +46,6 @@
 [submodule "vim/bundle/neocoplcache.vim"]
 	path = vim/bundle/neocoplcache.vim
 	url = https://github.com/Shougo/neocomplcache.vim.git
-[submodule "vim/bundle/minbufexpl.vim"]
-	path = vim/bundle/minbufexpl.vim
-	url = https://github.com/fholgado/minibufexpl.vim.git
 [submodule "vim/bundle/vim-unimpaired"]
 	path = vim/bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
